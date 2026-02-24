@@ -1,0 +1,10 @@
+[project]
+name = "wordlegame"
+version = "0.1.0"
+description = "Wordle game implemented in python"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "colorama>=0.4.6",
+    "rich>=14.3.2",
+]
